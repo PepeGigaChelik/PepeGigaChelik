@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @PepeGigaChelik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PepeGigaChelik/PepeGigaChelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Мне интересно программирование на Java а так же другие технологии
+- 🌱 В данный момент я учусь и скоро обязательно стану отличным разработчиком
+- 📫 Как связатьсься со мной:
+-   email: sazonovdimka2020@yandex.ru
+-   telegram: https://t.me/Dimka_Julik
+-   Phone: +7(952)-078-17-84
+- 💞 Готов к сотрудничеству
